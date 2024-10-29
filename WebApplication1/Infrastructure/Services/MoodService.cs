@@ -23,6 +23,7 @@ namespace AiComp.Infrastructure.Services
             moodLog.SetUserObject(user);
             moodLog.SetMood(predict);
             var response = new BaseResponse<MoodLog>();
+            await _moodLogRepository.AddMoodLog(moodLog);
             var changes = await _unitOfWork.SaveChanges();
             if (changes == 0)
             {
@@ -54,7 +55,7 @@ namespace AiComp.Infrastructure.Services
         {
             var logs = user.MoodLogs;
             if (logs.Count() > 0) return null;
-            return logs.ToList();
+            return await Task.FromResult(logs.ToList());
         }
 
         public async Task<MoodLog> ViewMoodLogsByTime(User user, DateTime date)

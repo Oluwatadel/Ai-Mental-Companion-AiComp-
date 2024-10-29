@@ -5688,19 +5688,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\oluwa\\.nuget\\packages\\": {}
+    "C:\\Users\\AIRIS TECHNOVATION 2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\AiComp\\WebApplication1\\AiComp.csproj",
+      "projectUniqueName": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\AiComp.csproj",
       "projectName": "AiComp",
-      "projectPath": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\AiComp\\WebApplication1\\AiComp.csproj",
-      "packagesPath": "C:\\Users\\oluwa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\AiComp\\WebApplication1\\obj\\",
+      "projectPath": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\AiComp.csproj",
+      "packagesPath": "C:\\Users\\AIRIS TECHNOVATION 2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\oluwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AIRIS TECHNOVATION 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5823,12 +5823,6 @@
     }
   },
   "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    },
     {
       "code": "NU1701",
       "level": "Warning",

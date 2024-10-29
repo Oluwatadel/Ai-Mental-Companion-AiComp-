@@ -18,7 +18,7 @@ namespace AiComp.Domain.Entities
         public MoodLog(Guid userId)
         {
             UserId = userId;
-            Timestamp = DateTime.Now;
+            Timestamp = DateTime.UtcNow;
         }
 
         public void SetUserObject(User user)
