@@ -4,6 +4,7 @@ using GroqSharp.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 using System.Text.Json;
+using System.Text.RegularExpressions;
 
 
 namespace AiComp.Controllers
@@ -23,7 +24,7 @@ namespace AiComp.Controllers
 
 
 
-        public Chat(IConfiguration configuration, IAiServices aiServices, IUserService userService, IChatConverseService chatConverseService, IConversationService conversationService, 
+        public Chat(IConfiguration configuration, IAiServices aiServices, IUserService userService, IChatConverseService chatConverseService, IConversationService conversationService,
             IIdentityService identityService, IMoodMessageService moodMessageService, IMoodService moodService)
         {
             _configuration = configuration;
@@ -42,7 +43,7 @@ namespace AiComp.Controllers
             var currentUser = await GetCurrentUser();
             var moodAnalysisQuestions = await _aiServices.GetAllQuestions();
             var moodMessages = await _moodMessageService.GetMoodMessagesAsync(currentUser.Id);
-            
+
             var todaysMoodMessage = moodMessages.Where(message => message.TimeCreated.Date == DateTime.UtcNow.Date).ToList();
             var nextQuestion = "";
 
@@ -80,7 +81,7 @@ namespace AiComp.Controllers
 
                 };
                 var savedMoodMessage = await _moodMessageService.AddMoodMessageAsync(moodMessage);
-                if(savedMoodMessage == null)
+                if (savedMoodMessage == null)
                 {
                     return BadRequest(new
                     {
@@ -151,7 +152,7 @@ namespace AiComp.Controllers
             var currentUser = await GetCurrentUser();
             var message = await _moodMessageService.GetMoodMessagesAsync(currentUser.Id);
             var todaysMoodMessage = message.Where(a => a.TimeCreated.Date == DateTime.Now.Date).ToList();
-            if(message.Count == 0)
+            if (message.Count == 0)
             {
                 return BadRequest(new
                 {
@@ -171,9 +172,15 @@ namespace AiComp.Controllers
                     UserId = currentUser.Id,
                     User = currentUser
                 };
-                if(message.Count < 9) await _moodMessageService.AddMoodMessageAsync(newMoodMessage);
-                var dbResponseOnMoodAddition = await _moodService.AddMoodLog(currentUser,responseToSentiment!);
-                if(dbResponseOnMoodAddition == null)
+
+                if (!todaysMoodMessage.Any(a => a.UserId == currentUser.Id))
+                {
+                    await _moodMessageService.AddMoodMessageAsync(newMoodMessage);
+
+                }
+                var dbResponseOnMoodAddition = await _moodService.AddMoodLog(currentUser, responseToSentiment!);
+
+                if (dbResponseOnMoodAddition == null)
                 {
                     return BadRequest(new
                     {
@@ -209,8 +216,9 @@ namespace AiComp.Controllers
 
         private async Task<SentimentPrediction?> ConvertJsonStringToSentimentPrediction(string aiJson)
         {
+            var refinedJson = await MoodObjRegexPatternMatch(aiJson);
             var returnedSentiment = new SentimentPrediction();
-            using (var doc = JsonDocument.Parse(aiJson))
+            using (var doc = JsonDocument.Parse(refinedJson))
             {
                 JsonElement root = doc.RootElement;
                 var sentiment = root.GetProperty("Mood");
@@ -223,6 +231,21 @@ namespace AiComp.Controllers
             }
 
             return await Task.FromResult(returnedSentiment);
+        }
+
+        private async Task<string?> MoodObjRegexPatternMatch(string aiJson)
+        {
+            string returnJson = "";
+            string pattern = "\"Mood\":\\s*\\{[^}]*\\}";
+
+            Match match = Regex.Match(aiJson, pattern);
+
+            if (match.Success)
+            {
+                returnJson = $"{{{match.Value}}}";
+                return await Task.FromResult(returnJson);
+            }
+            return await Task.FromResult(returnJson);
         }
     }
 }
