@@ -30,7 +30,15 @@ document.addEventListener("DOMContentLoaded", async () => {
     profile.addEventListener('click', async () =>{
         loadProfile('/Web/templates/profile-template.html');
     })
+
+    //===========================================Chat====================================================
+    chat.addEventListener('click', async() => {
+        await loadChat('/Web/templates/chat.html');
+    })
+
 })
+
+//=========================================================================================================
 
 async function dateTime(date) {
     const newDate = new Date();
@@ -56,6 +64,24 @@ async function getProfile(){
 
 //====================================================Load Profile template to the dashBoard=================================
 async function loadProfile(templatePath)
+{
+    const container = document.querySelector(".container");
+    const main = document.querySelector("main");
+    const right = document.querySelector(".right");
+
+    fetch(templatePath)
+        .then(response => response.text())
+        .then(html => {
+            container.style.gridTemplateColumns = "14rem auto";
+            main.innerHTML = "";
+            right.remove();
+            main.innerHTML = html;
+            dateTime(date);
+        })
+        .catch(error => console.error('Errorloading Template', error));
+}
+//=======================================================Load Chat================================================================
+let loadChat = async (template) =>
 {
     const container = document.querySelector(".container");
     const main = document.querySelector("main");
