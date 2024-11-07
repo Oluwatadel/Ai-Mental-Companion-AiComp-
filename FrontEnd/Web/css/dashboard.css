@@ -131,6 +131,7 @@ b{
 
 aside{
     height: 100vh;
+    border-right: solid 4px rgb(206, 204, 204);
 }
 
 aside .top{
@@ -480,6 +481,7 @@ main .recent-logs a{
 }
 
 .chat-h2{
+    margin-top: 1.5rem;
     margin-bottom: 0.8rem;
     background: transparent;
 }

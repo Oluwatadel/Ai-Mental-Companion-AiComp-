@@ -15,14 +15,11 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     //===============================================================================================
     await dateTime(date);
-    //===============================================================================================
-
-
+    
     //======================================Name================================================
     let profileDetails = await getProfile();
     console.log(profileDetails.data);
-    name.textContent = profileDetails.data.firstName;
-    
+    name.textContent = profileDetails.data.firstName;   
 
     //======================================Profile pics=========================================
     await getProfilePic(profilePics, token);
@@ -31,22 +28,16 @@ document.addEventListener("DOMContentLoaded", async () => {
         loadProfile('/Web/templates/profile-template.html');
     })
 
-    //===========================================Chat====================================================
-    chat.addEventListener('click', async() => {
-        await loadChat('/Web/templates/chat.html');
-    })
-
+    //===============================================================================================
 })
 
 //=========================================================================================================
-
 async function dateTime(date) {
     const newDate = new Date();
     // const formattedDate = 
     date.value = newDate.toISOString().split('T')[0]; // This will give you the date in the format of yyyy-MM-dd;
     console.log(newDate);
 }
-
 //=====================================================================================================================
 async function getProfile(){
     let token = await getToken();
@@ -61,7 +52,6 @@ async function getProfile(){
     const data = await resp.json();
     return data;
 }
-
 //====================================================Load Profile template to the dashBoard=================================
 async function loadProfile(templatePath)
 {
@@ -81,24 +71,7 @@ async function loadProfile(templatePath)
         .catch(error => console.error('Errorloading Template', error));
 }
 //=======================================================Load Chat================================================================
-let loadChat = async (template) =>
-{
-    const container = document.querySelector(".container");
-    const main = document.querySelector("main");
-    const right = document.querySelector(".right");
 
-    fetch(templatePath)
-        .then(response => response.text())
-        .then(html => {
-            container.style.gridTemplateColumns = "14rem auto";
-            main.innerHTML = "";
-            right.remove();
-            main.innerHTML = html;
-            dateTime(date);
-        })
-        .catch(error => console.error('Errorloading Template', error));
-}
-//========================================================Token===============================================================
 let getToken = async () => {
     const token = localStorage.getItem('jwt');
     return token;
