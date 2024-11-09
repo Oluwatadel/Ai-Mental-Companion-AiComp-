@@ -38,7 +38,7 @@
                     Google
                 </a>
             </div> -->
-            <form class="login100-form validate-form updateprofile" id="form" action="#">
+            <form class="login100-form validate-form updateprofile" id="form" action="post" enctype="multipart/form-data">
                 <div class="flex">
                     <div class="wrap-input100 validate-input" >
                         <input class="input100 surname" type="text" name="surname" id="surname" placeholder="Surname" required aria-required="true">
@@ -75,7 +75,7 @@
 
                 
                 <div class="wrap-input100 validate-input">
-                    <input class="input100 Profilepics" type="file" name="Profilepics" id="profilePicInput"  required aria-required="true">
+                    <input class="input100 Profilepics" type="file" id="profilePicInput"  required aria-required="true">
                     <span class="symbol-input100">
                     </span>
                 </div>
@@ -138,5 +138,7 @@
         </div>   
     </div>
     <script src="js/profile.js"></script>
+    <script src="js/dashboard.js"></script>
+
 </body>
 </html>

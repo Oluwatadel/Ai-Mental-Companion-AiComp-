@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", ()=>{
+document.addEventListener("DOMContentLoaded", async () => {
     const profileImageInput = document.querySelector("#profilePicInput");
     const profileImage = document.querySelector("#profileImage");
     const surName = document.querySelector("#surname");
@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", ()=>{
     const addressofUser = document.querySelector("#address");
     const phoneNumber = document.querySelector("#phonenumber");
     const ageOfUser = document.querySelector("#age");
-    const profilePics = document.querySelector("#profilePicInput");
+    // const profilePics = document.querySelector("#profilePicInput");
     const genderOfUser = document.querySelector("#gender");
     const occupationOfUser = document.querySelector("#occupation");
     const fullnameNok = document.querySelector("#fullnamenok");
@@ -16,47 +16,54 @@ document.addEventListener("DOMContentLoaded", ()=>{
 
 
 
-    form.addEventListener("submit", async () =>{
-        let token = await getToken()
-        let profileCreateObj = {
-            firstName : firstName.value,
-            lastName : surName.value,
-            Age : ageOfUser.value,
-            gender : genderOfUser.value,
-            occupation : occupationOfUser.value,
-            address : addressofUser.value,
-            pnoneNumber : phoneNumber.value,
-            fullNameOfNextOfKin : fullnameNok.value,
-            contactOfNextOfKin : nokPhonenumber.value,
-            profilePic : profileImageInput.value
+
+    form.addEventListener("submit", async (e) =>{
+        console.log("Entered");
+        e.preventDefault();
+        const token = await getToken()
+        console.log(token);
+//formData should be used because JsonStrigify() wont work on file so formData should be created instead of object
+
+        const formData = new FormData();
+        formData.append("FirstName", firstName.value);
+        formData.append("LastName", surName.value);
+        formData.append("Age", ageOfUser.value);
+        formData.append("Gender", genderOfUser.value);
+        formData.append("Occupation", occupationOfUser.value);
+        formData.append("Address", addressofUser.value);
+        formData.append("PhoneNumber", phoneNumber.value);
+        formData.append("FullNameOfNextOfKin", fullnameNok.value);
+        formData.append("ContactOfNextOfKin", nokPhonenumber.value);
+
+        //Adding profile image to formData
+        console.log(profileImageInput);
+        if(profileImageInput.files[0])
+        {
+            formData.append("ProfilePicture", profileImageInput.files[0]);
+            console.log(profileImageInput.files[0])
+            
         }
-        console.log(profileCreateObj)
-        const response = fetch("https://localhost:7173/api/p/createprofile", {
+        const response = await fetch("https://localhost:7173/api/p/createprofile",{
             method: "POST",
             headers: {
-                'Content-Type': 'application/json',
-                'Authorization':`Bearer${token}`
+                'Authorization':`Bearer ${token}`
             },
-            body: JSON.stringify(profileCreateObj)
+            body: formData,
         });
-        console.log("enter");
+        console.log(`Bearer ${token}`);
 
-        const data = await response.json();
-        if(data.status == "success"){
+        if(response.ok){
+            const data = await response.json();
+            console.log(data.data);
             location.href = "dashboard";
         }
         else
         {
-            console.error(data.message)
+            const errorData = await response.json();
+            console.log(errorData.message)
         }
+
     })
-
-
-
-
-
-
-
 
 
     profileImageInput.addEventListener("change", function(){
@@ -66,7 +73,6 @@ document.addEventListener("DOMContentLoaded", ()=>{
             const reader = new FileReader();
             reader.onload = function(e){
                 profileImage.src = e.target.result
-                console.log(e.target.result)
             }
 
             reader.readAsDataURL(file)
