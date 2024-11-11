@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         console.log(token);
 //formData should be used because JsonStrigify() wont work on file so formData should be created instead of object
 
-        const formData = new FormData();
+        const formData = new FormData(form);
         formData.append("FirstName", firstName.value);
         formData.append("LastName", surName.value);
         formData.append("Age", ageOfUser.value);
@@ -43,25 +43,42 @@ document.addEventListener("DOMContentLoaded", async () => {
             console.log(profileImageInput.files[0])
             
         }
-        const response = await fetch("https://localhost:7173/api/p/createprofile",{
-            method: "POST",
+        fetch("https://localhost:7173/api/p/createprofile",{
+            method: "post",
             headers: {
                 'Authorization':`Bearer ${token}`
             },
             body: formData,
-        });
-        console.log(`Bearer ${token}`);
+        }).then(resp => {
+            console.log(`Bearer ${token}`);
 
-        if(response.ok){
-            const data = await response.json();
-            console.log(data.data);
+            if(!response.ok)
+            {
+                return response.json().then(errorData => {
+                    throw new Error(errorData.message); // Propagate the error to the next .catch()
+                });
+            }
+            return response.json(); // Parse response JSON on success
+        })
+        .then(data => {
+            console.log(data.message);
             location.href = "dashboard";
-        }
-        else
-        {
-            const errorData = await response.json();
-            console.log(errorData.message)
-        }
+
+        })
+        .catch(error => {
+            console.error("Error:", error.message); // Log any error that occurs
+        });
+
+            // if(response.ok){
+            //     const data = await response.json();
+            //     console.log(data.data);
+            //     location.href = "dashboard";
+            // }
+            // else
+            // {
+            //     const errorData = await response.json();
+            //     console.log(errorData.message)
+            // }
 
     })
 

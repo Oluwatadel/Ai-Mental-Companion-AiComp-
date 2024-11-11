@@ -44,7 +44,8 @@ namespace AiComp.Infrastructure.Persistence.Repositories
                 }
                 upload = newUpload;
             }
-            var profile = new Profile(model.FirstName, model.LastName, model.Age, model.Gender, model.Occupation, model.Address, model.PhoneNumber, model.ContactOfNextOfKin, model.FullNameOfNextOfKin, upload.Data);
+            int age = CalculateAge(model.Age);
+            var profile = new Profile(model.FirstName, model.LastName, age, model.Gender, model.Occupation, model.Address, model.PhoneNumber, model.ContactOfNextOfKin, model.FullNameOfNextOfKin, upload.Data);
             profile.SetUserObject(user);
             await _profileRepository.AddProfileAsync(profile);
             
@@ -144,6 +145,20 @@ namespace AiComp.Infrastructure.Persistence.Repositories
             }
             response.SetValues("Profile pic found", "Successful", userProfile.ProfilePicture!);
             return response;
+        }
+
+        private  int CalculateAge(DateTime dateOfBirth)
+        {
+            DateTime today = DateTime.Now;
+            int age = today.Year - dateOfBirth.Year;
+
+            // Check if the birthday has already occurred this year
+            if (today < dateOfBirth.AddYears(age))
+            {
+                age--; // If the birthday hasn't occurred yet, subtract one year
+            }
+
+            return age;
         }
     }
 }

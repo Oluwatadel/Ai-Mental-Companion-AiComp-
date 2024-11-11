@@ -133,7 +133,7 @@
       },
       {
         "Name": "Age",
-        "Type": "System.Byte",
+        "Type": "System.DateTime",
         "IsRequired": false
       },
       {
@@ -193,49 +193,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "FirstName",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "LastName",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Gender",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Occupation",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Address",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "PhoneNumber",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "FullNameOfNextOfKin",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "ContactOfNextOfKin",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "ProfilePicture",
-        "Type": "Microsoft.AspNetCore.Http.IFormFile",
-        "IsRequired": false
+        "Name": "model",
+        "Type": "AiComp.Application.DTOs.RequestModel.ProfileUpdateRequestModel",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

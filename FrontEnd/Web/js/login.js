@@ -52,6 +52,8 @@
                     //Check if the user has a profile
                     if(!shareData.profile){
                         console.log("Profile is null, redirecting to profile creation.");
+                        localStorage.removeItem('jwt');
+                        localStorage.setItem('jwt', shareData.data.accessToken.result);
                         location.href = '/Web/create-profile.html';  // Redirect to the profile creation page                
                     } 
                     else

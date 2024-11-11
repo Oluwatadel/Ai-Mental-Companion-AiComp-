@@ -21,7 +21,7 @@ namespace AiComp.Controllers
 
 
         [HttpPost("createprofile")]
-        public async Task<IActionResult> AddProfile(ProfileCreateModel createModel)
+        public async Task<IActionResult> AddProfile([FromForm] ProfileCreateModel createModel)
         {
             var currentUser = await GetCurrentUser();
             var userProfile = await _profileService.CreateNewProfile(currentUser, createModel);
@@ -56,7 +56,7 @@ namespace AiComp.Controllers
         }
 
         [HttpPut("profile")]
-        public async Task<IActionResult> UpdateProfile(ProfileUpdateRequestModel model)
+        public async Task<IActionResult> UpdateProfile([FromBody] ProfileUpdateRequestModel model)
         {
             var user = await GetCurrentUser();
             var profileResponse = await _profileService.UpdateNewProfile(user, model);
@@ -187,7 +187,7 @@ namespace AiComp.Controllers
             var currentUserId = Guid.Parse(User.FindFirst(ClaimTypes.NameIdentifier)?.Value);
             var currentUser = await _userService.GetUserByIdAsync(currentUserId);
             return currentUser;
-        }
+        }  
 
 
     }
