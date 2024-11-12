@@ -25,7 +25,9 @@ document.addEventListener("DOMContentLoaded", async () => {
     await getProfilePic(profilePics, token);
     //===========================================Profile================================================
     profile.addEventListener('click', async () =>{
-        loadProfile('/Web/templates/profile-template.html');
+        loadProfileTemplate('/Web/templates/profile-template.html');
+                
+
     })
 
     //===============================================================================================
@@ -50,10 +52,36 @@ async function getProfile(){
         }            
     });
     const data = await resp.json();
-    return data;
+}
+
+
+let populateProfileTemplate = async () => {
+    
+    const profileImage = document.querySelector("#profile-pics-img");
+    const email = document.querySelector("#email");
+    const phonenumber = document.querySelector("#phonenumber");
+    const nokFullName = document.querySelector("#nok-fullName");
+    const nokPhoneContact = document.querySelector("#nok-contact");
+    const age = document.querySelector("#age");
+    const gender = document.querySelector("#gender");
+    const occupation = document.querySelector("#occupation");
+    const address = document.querySelector("#address");
+    
+    let profile = await getProfile();
+
+    profileImage.src = profile.Data.profilePics;
+    email.textContent = profile.Data.email;
+    phonenumber = profile.Data.phoneNumber;
+    nokFullName = profile.Data.fullNameNOK;
+    nokPhoneContact = profile.Data.contactOfNOK
+    age = profile.Data.age;
+    gender = profile.Data.gender;
+    occupation = profile.Data.occupation
+    address = profile.Data.address
+
 }
 //====================================================Load Profile template to the dashBoard=================================
-async function loadProfile(templatePath)
+async function loadProfileTemplate(templatePath)
 {
     const container = document.querySelector(".container");
     const main = document.querySelector("main");
