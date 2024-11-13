@@ -36,22 +36,9 @@ namespace AiComp.Controllers
             }
             return Created("", new
             {
-                status = "success",
-                message = "Registration Successfull",
-                data = new
-                {
-                    profile = new
-                    {
-                        userProfile.Data.FirstName,
-                        userProfile.Data.LastName,
-                        userProfile.Data.PhoneNumber,
-                        userProfile.Data.Address,
-                        userProfile.Data.Gender,
-                        userProfile.Data.Id,
-                        userProfile.Data.ContactOfNextOfKin,
-                        userProfile.Data.FullNameOfNextOfKin
-                    }
-                }
+                status = $"{userProfile.Status}",
+                message = $"{userProfile.Message}",
+                data = userProfile.Data
             });
         }
 
@@ -130,7 +117,7 @@ namespace AiComp.Controllers
         public async Task<IActionResult> GetProfile()
         {
             var user = await GetCurrentUser();
-            var profile = user.Profile;
+            var profile = await _profileService.GetProfile(user.Id);
             if(profile == null)
             {
                 return NotFound(new
@@ -147,15 +134,15 @@ namespace AiComp.Controllers
                 Message = "Profile found",
                 Data = new
                 {
-                    user.Profile?.FirstName,
-                    user.Profile?.LastName,
-                    user.Profile?.ProfilePicture,
-                    user.Profile?.Address,
-                    user.Profile?.Age,
-                    user.Profile?.Gender,
-                    user.Profile?.Occupation,
-                    user.Profile?.FullNameOfNextOfKin,
-                    user.Profile?.ContactOfNextOfKin,
+                    firstName = profile.Data?.FirstName,
+                    lastName = profile.Data?.LastName,
+                    age = profile.Data?.Age,
+                    gender = profile.Data?.Age,
+                    address = profile.Data?.Address,
+                    occupation = profile.Data?.Occupation,
+                    phoneNumber = profile.Data?.PhoneNumber,
+                    nokFullName = profile.Data?.FullNameOfNextOfKin,
+                    nokPhoneNumber = profile.Data?.ContactOfNextOfKin,
                 }
             });
         }
@@ -163,7 +150,7 @@ namespace AiComp.Controllers
         [HttpGet("/p/{userId}")]
         public async Task<IActionResult> GetProfile([FromBody] Guid userId)
         {
-            var profile = _profileService.GetProfile(userId);
+            var profile = await _profileService.GetProfile(userId);
             if (profile == null)
             {
                 return NotFound(new
@@ -178,7 +165,18 @@ namespace AiComp.Controllers
             {
                 status = "Successful",
                 Message = "Profile found",
-                Data = profile
+                Data = new
+                {
+                    firstName = profile.Data?.FirstName,
+                    lastName = profile.Data?.LastName,
+                    age = profile.Data?.Age,
+                    gender = profile.Data?.Age,
+                    address = profile.Data?.Address,
+                    occupation = profile.Data?.Occupation,
+                    phoneNumber = profile.Data?.PhoneNumber,
+                    nokFullName = profile.Data?.FullNameOfNextOfKin,
+                    nokPhoneNumber = profile.Data?.ContactOfNextOfKin,
+                }
             });
         }
 
