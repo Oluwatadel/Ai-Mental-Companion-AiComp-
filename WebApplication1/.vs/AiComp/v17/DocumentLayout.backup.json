@@ -1,260 +1,264 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\core\\entities\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:core\\entities\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\domain\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:domain\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\dtos\\requestmodel\\profilecreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\requestmodel\\profilecreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\core\\entities\\moodlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:core\\entities\\moodlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\controllers\\profilecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:controllers\\profilecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\controllers\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:controllers\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\domain\\entities\\moodlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:domain\\entities\\moodlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\services\\moodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\moodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\controllers\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:controllers\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\persistence\\repositories\\moodlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\moodlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\domain\\entities\\moodmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:domain\\entities\\moodmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\services\\moodmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\moodmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\domain\\entities\\sentimentprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:domain\\entities\\sentimentprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\services\\aiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\services\\aiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\aiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\controllers\\moodmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\controllers\\moodmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:controllers\\moodmessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\sentiment_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:sentiment_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\controllers\\profilecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:controllers\\profilecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\services\\sentimentanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\sentimentanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\persistence\\repositories\\moodmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\moodmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\persistence\\context\\aicompdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\context\\aicompdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\domain\\entities\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:domain\\entities\\conversation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\service\\iaiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\iaiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\service\\imoodmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\imoodmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\services\\conversationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\conversationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\services\\chatconverseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\chatconverseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\repository\\imoodmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\repository\\imoodmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\persistence\\repositories\\chatconverseresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\chatconverseresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\persistence\\repositories\\conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\service\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\dtos\\valueobjects\\chatconverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\valueobjects\\chatconverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\dtos\\valueobjects\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\valueobjects\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\dtos\\valueobjects\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\valueobjects\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\jsonvaluecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\jsonvaluecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\jsonvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\jsonvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\repository\\ichatconverserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\repository\\ichatconverserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\service\\iconversationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\iconversationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\persistence\\repositories\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\dtos\\valueobjects\\mood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\valueobjects\\mood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\dtos\\valueobjects\\sentimentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\valueobjects\\sentimentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\infrastructure\\services\\profilepicupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\services\\profilepicupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\profilepicupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\service\\iprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\repository\\imoodmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\repository\\imoodmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\service\\iaiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\iaiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\dtos\\valueobjects\\chatconverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\valueobjects\\chatconverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\aicomp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:aicomp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\dtos\\requestmodel\\profilecreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\requestmodel\\profilecreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\core\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:core\\entities\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\controllers\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:controllers\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\services\\moodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\moodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\controllers\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:controllers\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\persistence\\repositories\\moodlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\moodlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\core\\entities\\moodmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:core\\entities\\moodmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\services\\moodmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\moodmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\core\\entities\\sentimentprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:core\\entities\\sentimentprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\sentiment_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:sentiment_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\services\\sentimentanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\sentimentanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\persistence\\repositories\\moodmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\moodmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\persistence\\context\\aicompdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\context\\aicompdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\service\\imoodmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\imoodmessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\services\\conversationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\conversationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\services\\chatconverseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\chatconverseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\persistence\\repositories\\chatconverseresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\chatconverseresponsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\persistence\\repositories\\conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\conversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\service\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\dtos\\valueobjects\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\valueobjects\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\dtos\\valueobjects\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\valueobjects\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\jsonvaluecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\jsonvaluecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\jsonvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\jsonvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\repository\\ichatconverserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\repository\\ichatconverserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\service\\iconversationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\iconversationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\services\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\persistence\\repositories\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\profilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\infrastructure\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:infrastructure\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\dtos\\valueobjects\\mood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\valueobjects\\mood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\dtos\\valueobjects\\sentimentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\valueobjects\\sentimentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\service\\iprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\iprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\dtos\\requestmodel\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\dtos\\requestmodel\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\requestmodel\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\dtos\\requestmodel\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\dtos\\requestmodel\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\requestmodel\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\controllers\\mood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\controllers\\mood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:controllers\\mood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\dtos\\requestmodel\\profileupdaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\dtos\\requestmodel\\profileupdaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\requestmodel\\profileupdaterequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\service\\imoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\service\\imoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\imoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\service\\ichatconverseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\service\\ichatconverseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\ichatconverseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\repository\\imoodlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\repository\\imoodlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\repository\\imoodlogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\dtos\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\dtos\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\dtos\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\service\\iprofilepicupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\service\\iprofilepicupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\iprofilepicupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240828045553_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\service\\isentimentanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\service\\isentimentanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\service\\isentimentanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\repository\\iprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\repository\\iprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\repository\\iprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\application\\interfaces\\repository\\iconversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\oluwa\\documents\\programming\\software journey\\projects\\mental health companion\\ai-mental-conpanion-ai-icomp-\\webapplication1\\application\\interfaces\\repository\\iconversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:application\\interfaces\\repository\\iconversationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727141138_initials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|c:\\users\\airis technovation 2\\documents\\ai-mental-companion-aicomp-\\webapplication1\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B05675B-13DF-4C5B-B332-B6765946FEF8}|AiComp.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727135821_initials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -270,16 +274,224 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MoodLog.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\MoodLog.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\MoodLog.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\MoodLog.cs",
+              "RelativeToolTip": "Core\\Entities\\MoodLog.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:24:32.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\Profile.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Profile.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\Profile.cs",
+              "RelativeToolTip": "Core\\Entities\\Profile.cs",
+              "ViewState": "AgIAAC0AAADAMjMzMzMlwDsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:13:58.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\ProfileService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ProfileService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\ProfileService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ProfileService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:41:51.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfileCon.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Controllers\\ProfileCon.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileCon.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Controllers\\ProfileCon.cs",
+              "RelativeToolTip": "Controllers\\ProfileCon.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowH4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:37:32.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:50:37.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoodMessages.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Controllers\\MoodMessages.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoodMessages.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Controllers\\MoodMessages.cs",
+              "RelativeToolTip": "Controllers\\MoodMessages.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:48:24.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvxgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T16:47:19.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conversation.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\Conversation.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Conversation.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\Conversation.cs",
+              "RelativeToolTip": "Core\\Entities\\Conversation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:24:00.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IMoodMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IMoodMessageRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IMoodMessageRepository.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IMoodMessageRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Repository\\IMoodMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:06:01.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAiServices.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IAiServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IAiServices.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IAiServices.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Service\\IAiServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:04:12.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AiServices.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\AiServices.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\AiServices.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\AiServices.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\AiServices.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwEEAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:01:55.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatConverse.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\ChatConverse.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ValueObjects\\ChatConverse.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\ChatConverse.cs",
+              "RelativeToolTip": "Application\\DTOs\\ValueObjects\\ChatConverse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T11:34:01.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProfilePicUpload.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\ProfilePicUpload.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ProfilePicUpload.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\ProfilePicUpload.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ProfilePicUpload.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAMwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:23:14.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MoodMessage.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\MoodMessage.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\MoodMessage.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\MoodMessage.cs",
+              "RelativeToolTip": "Core\\Entities\\MoodMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T19:50:54.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AiComp.csproj",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\AiComp.csproj",
+              "RelativeDocumentMoniker": "AiComp.csproj",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\AiComp.csproj",
+              "RelativeToolTip": "AiComp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-29T20:40:26.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MoodLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\MoodLogRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\MoodLogRepository.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\MoodLogRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\MoodLogRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:11:58.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ProfileCreateModel.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\ProfileCreateModel.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\ProfileCreateModel.cs",
               "RelativeDocumentMoniker": "Application\\DTOs\\RequestModel\\ProfileCreateModel.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\ProfileCreateModel.cs*",
-              "RelativeToolTip": "Application\\DTOs\\RequestModel\\ProfileCreateModel.cs*",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\ProfileCreateModel.cs",
+              "RelativeToolTip": "Application\\DTOs\\RequestModel\\ProfileCreateModel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAiwAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-25T13:38:53.528Z",
@@ -287,37 +499,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Chat.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Controllers\\Chat.cs",
-              "RelativeDocumentMoniker": "Controllers\\Chat.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Controllers\\Chat.cs",
-              "RelativeToolTip": "Controllers\\Chat.cs",
-              "ViewState": "AgIAALUAAAAAAAAAAAAcwM4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T13:09:02.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProfileCon.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Controllers\\ProfileCon.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProfileCon.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Controllers\\ProfileCon.cs",
-              "RelativeToolTip": "Controllers\\ProfileCon.cs",
-              "ViewState": "AgIAAAsAAADANDMzMzMjwBcAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T00:37:32.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Authentication.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Controllers\\Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Controllers\\Authentication.cs",
               "RelativeDocumentMoniker": "Controllers\\Authentication.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Controllers\\Authentication.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Controllers\\Authentication.cs",
               "RelativeToolTip": "Controllers\\Authentication.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAWwC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -326,98 +512,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MoodLogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\MoodLogRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\MoodLogRepository.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\MoodLogRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\MoodLogRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowBMAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "Chat.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Controllers\\Chat.cs",
+              "RelativeDocumentMoniker": "Controllers\\Chat.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Controllers\\Chat.cs",
+              "RelativeToolTip": "Controllers\\Chat.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAcwM4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T13:11:58.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProfileService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\ProfileService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\ProfileService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\ProfileService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\ProfileService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T14:41:51.648Z",
+              "WhenOpened": "2024-09-05T13:09:02.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Profile.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\Profile.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Profile.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\Profile.cs",
-              "RelativeToolTip": "Domain\\Entities\\Profile.cs",
-              "ViewState": "AgIAAC0AAADAMjMzMzMlwDsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:13:58.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MoodLog.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\MoodLog.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\MoodLog.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\MoodLog.cs",
-              "RelativeToolTip": "Domain\\Entities\\MoodLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T19:24:32.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAADwvxgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T16:47:19.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MoodMessage.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\MoodMessage.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\MoodMessage.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\MoodMessage.cs",
-              "RelativeToolTip": "Domain\\Entities\\MoodMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T19:50:54.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAUAAADAY2ZmZmYSwAwAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\User.cs",
+              "RelativeToolTip": "Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAUAAAB4zMzMzExBwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:13:29.75Z"
+              "WhenOpened": "2024-07-22T15:13:29.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "MoodService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\MoodService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\MoodService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\MoodService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\MoodService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\MoodService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\MoodService.cs",
               "ViewState": "AgIAAAsAAAAAmZmZmZkdwCMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -426,648 +551,593 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "MoodMessageService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\MoodMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\MoodMessageService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\MoodMessageService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\MoodMessageService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\MoodMessageService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\MoodMessageService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAowBoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T20:08:40.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MoodMessages.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Controllers\\MoodMessages.cs",
-              "RelativeDocumentMoniker": "Controllers\\MoodMessages.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Controllers\\MoodMessages.cs",
-              "RelativeToolTip": "Controllers\\MoodMessages.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T12:48:24.746Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SentimentPrediction.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\SentimentPrediction.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\SentimentPrediction.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\SentimentPrediction.cs",
-              "RelativeToolTip": "Domain\\Entities\\SentimentPrediction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T14:01:15.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AiServices.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\AiServices.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\AiServices.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\AiServices.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\AiServices.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwEEAAACZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T14:01:55.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Sentiment_data.csv",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Sentiment_data.csv",
-              "RelativeDocumentMoniker": "Sentiment_data.csv",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Sentiment_data.csv",
-              "RelativeToolTip": "Sentiment_data.csv",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-10-12T16:41:48.17Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA0wBQAAADxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-26T11:58:48.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SentimentAnalysis.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\SentimentAnalysis.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\SentimentAnalysis.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\SentimentAnalysis.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\SentimentAnalysis.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAArwCoAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T11:34:15.635Z"
+              "WhenOpened": "2024-10-18T20:08:40.587Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "MoodMessageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\MoodMessageRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\MoodMessageRepository.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\MoodMessageRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\MoodMessageRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAswB8AAAAIAAAAAAAAAA==",
+              "Title": "SentimentPrediction.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\SentimentPrediction.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\SentimentPrediction.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Core\\Entities\\SentimentPrediction.cs",
+              "RelativeToolTip": "Core\\Entities\\SentimentPrediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T19:44:59.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\UserService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\UserService.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA6wDMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T14:13:08.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA6wCEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T15:05:33.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Conversation.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\Conversation.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Conversation.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\Conversation.cs",
-              "RelativeToolTip": "Domain\\Entities\\Conversation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:24:00.394Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AiCompDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Context\\AiCompDBContext.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Context\\AiCompDBContext.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Context\\AiCompDBContext.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Context\\AiCompDBContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAowCQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T15:55:56.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IMoodMessageService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IMoodMessageService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IMoodMessageService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IMoodMessageService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Service\\IMoodMessageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T20:17:38.044Z"
+              "WhenOpened": "2024-08-15T14:01:15.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "IAiServices.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IAiServices.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IAiServices.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IAiServices.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Service\\IAiServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T07:04:12.463Z"
+              "Title": "Sentiment_data.csv",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Sentiment_data.csv",
+              "RelativeDocumentMoniker": "Sentiment_data.csv",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Sentiment_data.csv",
+              "RelativeToolTip": "Sentiment_data.csv",
+              "ViewState": "AgIAAB0AAAAAAAAAAABVwDUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-10-12T16:41:48.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ConversationService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\ConversationService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\ConversationService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\ConversationService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\ConversationService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T07:18:06.173Z"
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA0wBQAAADxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T11:58:48.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ChatConverseService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\ChatConverseService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\ChatConverseService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\ChatConverseService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\ChatConverseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "SentimentAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\SentimentAnalysis.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\SentimentAnalysis.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\SentimentAnalysis.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\SentimentAnalysis.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwCoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T07:53:16.506Z"
+              "WhenOpened": "2024-08-18T11:34:15.635Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "IMoodMessageRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IMoodMessageRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IMoodMessageRepository.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IMoodMessageRepository.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Repository\\IMoodMessageRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "MoodMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\MoodMessageRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\MoodMessageRepository.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\MoodMessageRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\MoodMessageRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T20:06:01.142Z"
+              "WhenOpened": "2024-10-18T19:44:59.048Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ConversationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\ConversationRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\ConversationRepository.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\ConversationRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\ConversationRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T13:03:21.281Z"
+              "WhenOpened": "2024-08-15T14:13:08.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:05:33.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "ChatConverseResponsitory.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\ChatConverseResponsitory.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\ChatConverseResponsitory.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\ChatConverseResponsitory.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\ChatConverseResponsitory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Title": "AiCompDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Context\\AiCompDBContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Context\\AiCompDBContext.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Context\\AiCompDBContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Context\\AiCompDBContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:09:42.136Z"
+              "WhenOpened": "2024-07-25T15:55:56.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IMoodMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IMoodMessageService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IMoodMessageService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IMoodMessageService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Service\\IMoodMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:17:38.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "IIdentityService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IIdentityService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IIdentityService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IIdentityService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Service\\IIdentityService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Title": "ConversationService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\ConversationService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ConversationService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\ConversationService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ConversationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBfwDIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T15:19:42.167Z"
+              "WhenOpened": "2024-09-06T07:18:06.173Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
-              "Title": "ChatConverse.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\ChatConverse.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\ValueObjects\\ChatConverse.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\ChatConverse.cs",
-              "RelativeToolTip": "Application\\DTOs\\ValueObjects\\ChatConverse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Title": "ChatConverseService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\ChatConverseService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ChatConverseService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\ChatConverseService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ChatConverseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T11:34:01.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\Response.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\ValueObjects\\Response.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\Response.cs",
-              "RelativeToolTip": "Application\\DTOs\\ValueObjects\\Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:24:21.267Z"
+              "WhenOpened": "2024-09-06T07:53:16.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "Prompt.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\Prompt.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\ValueObjects\\Prompt.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\Prompt.cs",
-              "RelativeToolTip": "Application\\DTOs\\ValueObjects\\Prompt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Title": "ConversationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\ConversationRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\ConversationRepository.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\ConversationRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\ConversationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T15:25:20.12Z"
+              "WhenOpened": "2024-07-28T13:03:21.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "JsonValueConverter.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\JsonValueConverter.cs",
-              "RelativeDocumentMoniker": "Application\\JsonValueConverter.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\JsonValueConverter.cs",
-              "RelativeToolTip": "Application\\JsonValueConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 33,
+              "Title": "ChatConverseResponsitory.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\ChatConverseResponsitory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\ChatConverseResponsitory.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\ChatConverseResponsitory.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\ChatConverseResponsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T13:30:28.781Z"
+              "WhenOpened": "2024-10-13T15:09:42.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
-              "Title": "JsonValueComparer.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\JsonValueComparer.cs",
-              "RelativeDocumentMoniker": "Application\\JsonValueComparer.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\JsonValueComparer.cs",
-              "RelativeToolTip": "Application\\JsonValueComparer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IIdentityService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IIdentityService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Service\\IIdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T13:47:42.481Z"
+              "WhenOpened": "2024-08-15T15:19:42.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "IConversationService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IConversationService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IConversationService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IConversationService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Service\\IConversationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 36,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\Response.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ValueObjects\\Response.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\Response.cs",
+              "RelativeToolTip": "Application\\DTOs\\ValueObjects\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T07:11:06.493Z"
+              "WhenOpened": "2024-07-22T15:24:21.267Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": "IChatConverseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IChatConverseRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IChatConverseRepository.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IChatConverseRepository.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Repository\\IChatConverseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\Prompt.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ValueObjects\\Prompt.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\Prompt.cs",
+              "RelativeToolTip": "Application\\DTOs\\ValueObjects\\Prompt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T15:21:25.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ProfileRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\ProfileRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\ProfileRepository.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\ProfileRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\ProfileRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T13:03:21.328Z"
+              "WhenOpened": "2024-07-22T15:25:20.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "IdentityService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\IdentityService.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\IdentityService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\IdentityService.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\IdentityService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAAIAAAAAAAAAA==",
+              "Title": "JsonValueConverter.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\JsonValueConverter.cs",
+              "RelativeDocumentMoniker": "Application\\JsonValueConverter.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\JsonValueConverter.cs",
+              "RelativeToolTip": "Application\\JsonValueConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T15:28:27.851Z"
+              "WhenOpened": "2024-07-27T13:30:28.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "JsonValueComparer.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\JsonValueComparer.cs",
+              "RelativeDocumentMoniker": "Application\\JsonValueComparer.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\JsonValueComparer.cs",
+              "RelativeToolTip": "Application\\JsonValueComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:47:42.481Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
-              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Title": "IConversationService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IConversationService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IConversationService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IConversationService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Service\\IConversationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T14:21:52.519Z"
+              "WhenOpened": "2024-09-06T07:11:06.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Mood.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\Mood.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\ValueObjects\\Mood.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\Mood.cs",
-              "RelativeToolTip": "Application\\DTOs\\ValueObjects\\Mood.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 40,
+              "Title": "IChatConverseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IChatConverseRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IChatConverseRepository.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IChatConverseRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Repository\\IChatConverseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T19:23:22.91Z"
+              "WhenOpened": "2024-10-13T15:21:25.009Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
-              "Title": "SentimentData.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\SentimentData.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\ValueObjects\\SentimentData.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\SentimentData.cs",
-              "RelativeToolTip": "Application\\DTOs\\ValueObjects\\SentimentData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "ProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\ProfileRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\ProfileRepository.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\ProfileRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\ProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T14:01:15.916Z"
+              "WhenOpened": "2024-07-28T13:03:21.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "IProfileService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IProfileService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IProfileService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IProfileService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Service\\IProfileService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
+              "DocumentIndex": 42,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\IdentityService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\IdentityService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Services\\IdentityService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\IdentityService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T14:37:05.744Z"
+              "WhenOpened": "2024-08-15T15:28:27.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 44,
-              "Title": "ProfilePicUpload.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\ProfilePicUpload.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Services\\ProfilePicUpload.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Infrastructure\\Services\\ProfilePicUpload.cs",
-              "RelativeToolTip": "Infrastructure\\Services\\ProfilePicUpload.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAqwCsAAAAMAAAAAAAAAA==",
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T15:23:14.734Z",
+              "WhenOpened": "2024-08-15T14:21:52.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Mood.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\Mood.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ValueObjects\\Mood.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\Mood.cs",
+              "RelativeToolTip": "Application\\DTOs\\ValueObjects\\Mood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T19:23:22.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SentimentData.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\SentimentData.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ValueObjects\\SentimentData.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\ValueObjects\\SentimentData.cs",
+              "RelativeToolTip": "Application\\DTOs\\ValueObjects\\SentimentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:01:15.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 47,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IUserRepository.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Repository\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Title": "IProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IProfileService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IProfileService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IProfileService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Service\\IProfileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T13:03:21.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IUserService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IUserService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IUserService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Service\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T13:03:21.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "UserRequestModel.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\UserRequestModel.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\RequestModel\\UserRequestModel.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\UserRequestModel.cs",
-              "RelativeToolTip": "Application\\DTOs\\RequestModel\\UserRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T11:54:36.76Z"
+              "WhenOpened": "2024-08-15T14:37:05.744Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 49,
-              "Title": "LoginRequestModel.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\LoginRequestModel.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\RequestModel\\LoginRequestModel.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\LoginRequestModel.cs",
-              "RelativeToolTip": "Application\\DTOs\\RequestModel\\LoginRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:20:15.674Z"
+              "WhenOpened": "2024-07-28T13:03:21.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IUserService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:03:21.375Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 50,
-              "Title": "Mood.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Controllers\\Mood.cs",
-              "RelativeDocumentMoniker": "Controllers\\Mood.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Controllers\\Mood.cs",
-              "RelativeToolTip": "Controllers\\Mood.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAnwBMAAAAxAAAAAAAAAA==",
+              "Title": "UserRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\UserRequestModel.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RequestModel\\UserRequestModel.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\UserRequestModel.cs",
+              "RelativeToolTip": "Application\\DTOs\\RequestModel\\UserRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:29:04.575Z"
+              "WhenOpened": "2024-08-02T11:54:36.76Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 51,
-              "Title": "ProfileUpdateRequestModel.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\ProfileUpdateRequestModel.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\RequestModel\\ProfileUpdateRequestModel.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\ProfileUpdateRequestModel.cs",
-              "RelativeToolTip": "Application\\DTOs\\RequestModel\\ProfileUpdateRequestModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RequestModel\\LoginRequestModel.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\LoginRequestModel.cs",
+              "RelativeToolTip": "Application\\DTOs\\RequestModel\\LoginRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T14:38:45.622Z"
+              "WhenOpened": "2024-09-02T11:20:15.674Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 52,
-              "Title": "IMoodService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IMoodService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IMoodService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IMoodService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Service\\IMoodService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowA8AAAAPAAAAAAAAAA==",
+              "Title": "Mood.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Controllers\\Mood.cs",
+              "RelativeDocumentMoniker": "Controllers\\Mood.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Controllers\\Mood.cs",
+              "RelativeToolTip": "Controllers\\Mood.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAnwBMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T21:02:14.947Z"
+              "WhenOpened": "2024-09-12T08:29:04.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 53,
-              "Title": "IChatConverseService.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IChatConverseService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IChatConverseService.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IChatConverseService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Service\\IChatConverseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABXAAAAAAAAAA==",
+              "Title": "ProfileUpdateRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\ProfileUpdateRequestModel.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RequestModel\\ProfileUpdateRequestModel.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\RequestModel\\ProfileUpdateRequestModel.cs",
+              "RelativeToolTip": "Application\\DTOs\\RequestModel\\ProfileUpdateRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T07:51:42.734Z"
+              "WhenOpened": "2024-08-15T14:38:45.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 54,
-              "Title": "IMoodLogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IMoodLogRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IMoodLogRepository.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IMoodLogRepository.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Repository\\IMoodLogRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA8AAAAAAAAAA==",
+              "Title": "IMoodService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IMoodService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IMoodService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IMoodService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Service\\IMoodService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T13:10:16.069Z"
+              "WhenOpened": "2024-09-07T21:02:14.947Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 55,
-              "Title": "BaseResponse.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\BaseResponse.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\BaseResponse.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\DTOs\\BaseResponse.cs",
-              "RelativeToolTip": "Application\\DTOs\\BaseResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Title": "IChatConverseService.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IChatConverseService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IChatConverseService.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IChatConverseService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Service\\IChatConverseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T01:01:28.081Z"
+              "WhenOpened": "2024-09-06T07:51:42.734Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 56,
-              "Title": "IProfilePicUpload.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IProfilePicUpload.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IProfilePicUpload.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\IProfilePicUpload.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Service\\IProfilePicUpload.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAhAAAAAAAAAA==",
+              "Title": "IMoodLogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IMoodLogRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IMoodLogRepository.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IMoodLogRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Repository\\IMoodLogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T15:26:00.696Z"
+              "WhenOpened": "2024-09-05T13:10:16.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 57,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\DTOs\\BaseResponse.cs",
+              "RelativeToolTip": "Application\\DTOs\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T01:01:28.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IProfilePicUpload.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IProfilePicUpload.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\IProfilePicUpload.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\IProfilePicUpload.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Service\\IProfilePicUpload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:26:00.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
               "Title": "20240828045553_initial.cs",
               "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240828045553_initial.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240828045553_initial.cs",
+              "RelativeDocumentMoniker": "..\\..\\WebApplication1\\Migrations\\20240828045553_initial.cs",
               "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240828045553_initial.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240828045553_initial.cs",
+              "RelativeToolTip": "..\\..\\WebApplication1\\Migrations\\20240828045553_initial.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T04:55:54.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "ISentimentAnalysis.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\ISentimentAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\ISentimentAnalysis.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\Service\\ISentimentAnalysis.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Service\\ISentimentAnalysis.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Service\\ISentimentAnalysis.cs",
               "RelativeToolTip": "Application\\Interfaces\\Service\\ISentimentAnalysis.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T14:01:12.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "IProfileRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IProfileRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IProfileRepository.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IProfileRepository.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Repository\\IProfileRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T13:03:21.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IUnitOfWork.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Repository\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T13:03:21.187Z"
+              "WhenOpened": "2024-08-15T14:01:12.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 61,
-              "Title": "IConversationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IConversationRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IConversationRepository.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IConversationRepository.cs",
-              "RelativeToolTip": "Application\\Interfaces\\Repository\\IConversationRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Title": "IProfileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IProfileRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IProfileRepository.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IProfileRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Repository\\IProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T13:03:19.796Z"
+              "WhenOpened": "2024-07-28T13:03:21.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 62,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IUnitOfWork.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Repository\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:03:21.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IConversationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IConversationRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\Repository\\IConversationRepository.cs",
+              "ToolTip": "C:\\Users\\oluwa\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\Ai-Mental-Conpanion-AI-iComp-\\WebApplication1\\Application\\Interfaces\\Repository\\IConversationRepository.cs",
+              "RelativeToolTip": "Application\\Interfaces\\Repository\\IConversationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T13:03:19.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
               "Title": "20240727141547_initials.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727141547_initials.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727141547_initials.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727141547_initials.cs",
               "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727141547_initials.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727141547_initials.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727141547_initials.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T14:15:48.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 64,
               "Title": "20240727141138_initials.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727141138_initials.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727141138_initials.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727141138_initials.cs",
               "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727141138_initials.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727141138_initials.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727141138_initials.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T14:11:39.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "20240727135821_initials.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727135821_initials.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727135821_initials.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727135821_initials.cs",
               "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727135821_initials.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727135821_initials.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\AIRIS TECHNOVATION\\Documents\\Programming\\Software Journey\\Projects\\Mental Health Companion\\WebApplication1\\Migrations\\20240727135821_initials.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T13:58:22.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION 2\\Documents\\Ai-Mental-Companion-AiComp-\\WebApplication1\\Domain\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T07:50:37.364Z"
             }
           ]
         }

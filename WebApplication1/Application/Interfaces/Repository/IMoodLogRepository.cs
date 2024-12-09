@@ -1,4 +1,5 @@
 ﻿using AiComp.Domain.Entities;
+using System.Linq.Expressions;
 
 namespace AiComp.Application.Interfaces.Repository
 {
@@ -6,5 +7,6 @@ namespace AiComp.Application.Interfaces.Repository
     {
         public Task<MoodLog> AddMoodLog(MoodLog moodLog);
         public Task<MoodLog> UpdateMoodLog(MoodLog moodLog);
+        public Task<ICollection<MoodLog>> GetMoodLogsDynamically(Expression<Func<MoodLog, bool>> pred);
     }
 }

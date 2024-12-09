@@ -147,7 +147,7 @@ namespace AiComp.Controllers
         }
 
         [HttpGet("mood-analyser")]
-        public async Task<IActionResult> GetMoodMessagesForToday()
+        public async Task<IActionResult> GetMoodMessagesForTodayAndAnalyseUserMood()
         {
             var currentUser = await GetCurrentUser();
             var message = await _moodMessageService.GetMoodMessagesAsync(currentUser.Id);

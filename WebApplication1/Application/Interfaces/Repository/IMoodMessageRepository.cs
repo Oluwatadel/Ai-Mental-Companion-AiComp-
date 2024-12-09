@@ -1,6 +1,4 @@
 ﻿using AiComp.Domain.Entities;
-using AiComp.Infrastructure.Persistence.Context;
-using Microsoft.EntityFrameworkCore;
 
 namespace AiComp.Application.Interfaces.Repository
 {

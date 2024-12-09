@@ -39,7 +39,7 @@ namespace AiComp.Controllers
                 status = "success",
                 message = "Registration Successfull",
                 data = new
-                {
+                {   
                     profile = new
                     {
                         userProfile.Data.FirstName,
@@ -49,7 +49,8 @@ namespace AiComp.Controllers
                         userProfile.Data.Gender,
                         userProfile.Data.Id,
                         userProfile.Data.ContactOfNextOfKin,
-                        userProfile.Data.FullNameOfNextOfKin
+                        userProfile.Data.FullNameOfNextOfKin,
+                        userProfile.Data.ProfilePicture 
                     }
                 }
             });
@@ -147,15 +148,15 @@ namespace AiComp.Controllers
                 Message = "Profile found",
                 Data = new
                 {
-                    user.Profile?.FirstName,
-                    user.Profile?.LastName,
-                    user.Profile?.ProfilePicture,
-                    user.Profile?.Address,
-                    user.Profile?.Age,
-                    user.Profile?.Gender,
-                    user.Profile?.Occupation,
-                    user.Profile?.FullNameOfNextOfKin,
-                    user.Profile?.ContactOfNextOfKin,
+                    firstName = user.Profile?.FirstName,
+                    lastName = user.Profile?.LastName,
+                    profilePics = user.Profile?.ProfilePicture,
+                    address = user.Profile?.Address,
+                    age = user.Profile?.Age,
+                    gender = user.Profile?.Gender,
+                    occupation = user.Profile?.Occupation,
+                    fullNameOfNOK = user.Profile?.FullNameOfNextOfKin,
+                    contactOfNextOfkin = user.Profile?.ContactOfNextOfKin,
                 }
             });
         }

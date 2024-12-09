@@ -1,5 +1,4 @@
-﻿using static Google.Rpc.Context.AttributeContext.Types;
-
+﻿
 namespace AiComp.Application.DTOs.ValueObjects
 {
     public class ChatConverse

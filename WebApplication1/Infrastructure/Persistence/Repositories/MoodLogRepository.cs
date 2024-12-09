@@ -1,6 +1,8 @@
 ﻿using AiComp.Application.Interfaces.Repository;
 using AiComp.Domain.Entities;
 using AiComp.Infrastructure.Persistence.Context;
+using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace AiComp.Infrastructure.Persistence.Repositories
 {
@@ -17,6 +19,11 @@ namespace AiComp.Infrastructure.Persistence.Repositories
         {
             await _aiCompDBContext.MoodLogs.AddAsync(moodLog);
             return moodLog;
+        }
+
+        public async Task<ICollection<MoodLog>> GetMoodLogsDynamically(Expression<Func<MoodLog, bool>> pred)
+        {
+            return await _aiCompDBContext.MoodLogs.Where(pred).ToListAsync();
         }
 
         public async Task<MoodLog> UpdateMoodLog(MoodLog moodLog)

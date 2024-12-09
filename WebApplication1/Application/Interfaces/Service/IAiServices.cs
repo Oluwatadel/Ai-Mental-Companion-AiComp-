@@ -1,6 +1,4 @@
 ﻿using AiComp.Domain.Entities;
-using GroqSharp.Models;
-using Microsoft.ML;
 
 namespace AiComp.Application.Interfaces.Service;
 public interface IAiServices

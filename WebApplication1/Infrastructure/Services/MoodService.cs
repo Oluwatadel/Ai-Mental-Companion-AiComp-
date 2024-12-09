@@ -58,9 +58,9 @@ namespace AiComp.Infrastructure.Services
             return await Task.FromResult(logs.ToList());
         }
 
-        public async Task<MoodLog> ViewMoodLogsByTime(User user, DateTime date)
+        public async Task<IEnumerable<MoodLog>> ViewMoodLogsByTime(User user, DateTime startDate, DateTime endDate)
         {
-            var logs = user.MoodLogs.FirstOrDefault(a => a.Timestamp.Date == date.Date);
+            var logs = await _moodLogRepository.GetMoodLogsDynamically(a => a.UserId == user.Id && (a.Timestamp >= startDate || a.Timestamp <= endDate));
             return await Task.FromResult(logs);
         }
     }

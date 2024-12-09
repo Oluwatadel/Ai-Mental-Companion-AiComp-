@@ -49,7 +49,7 @@ namespace AiComp.Infrastructure.Services
             }
 
             var baseResponse = new BaseResponse<string>();
-            baseResponse.SetValues($"File uploaded successfully", "Success", $"{newFileName}");
+            baseResponse.SetValues($"File uploaded successfully", "Success", $"{filePath}");
             return baseResponse;
         }
     }
