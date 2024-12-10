@@ -18,7 +18,9 @@ document.addEventListener("DOMContentLoaded", async () => {
     
     //======================================Name================================================
     let profileDetails = await getProfile();
-    console.log(profileDetails.data);
+    console.log(profileDetails.Data);
+    console.log("reached");
+
     name.textContent = profileDetails.data.firstName;   
 
     //======================================Profile pics=========================================
@@ -52,6 +54,9 @@ async function getProfile(){
         }            
     });
     const data = await resp.json();
+    console.log(data);
+
+    return data;
 }
 
 
